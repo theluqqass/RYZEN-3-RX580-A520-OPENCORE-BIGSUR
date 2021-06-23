@@ -1,3 +1,4 @@
+[EFI.zip](https://github.com/theluqqass/RYZEN-3-RX580-A520-OPENCORE-BIGSUR-BETA-BUILD/files/6698182/EFI.zip)
 # First and Foremost
 
 From my own experience, you need to priorities the model of your own motherboard because theres a lot of tweaks (ACPI) for a particular board. So I only recommended people with same board as me to try the EFI.
