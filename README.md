@@ -1,3 +1,4 @@
+![image_2021-06-25_19-20-52](https://user-images.githubusercontent.com/86243750/123417606-8d9ef300-d5ea-11eb-916d-f396e82ec700.png)
 # First and Foremost
 
 From my own experience, you need to priorities the model of your own motherboard because theres a lot of tweaks (ACPI) for a particular board. So I only recommended people with same board as me to try the EFI.
