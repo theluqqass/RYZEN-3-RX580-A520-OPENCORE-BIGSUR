@@ -16,6 +16,7 @@ First build on Hackintosh on PC with a specification:
 # Bugs and Troubleshooting
 
 This build is beta, so few of bugs is expected.
+(edit 1= it seems have problem with abovr 4G Decoding on bios setup. Removing an argument at boot-args will solve the problem)
 
 
 
